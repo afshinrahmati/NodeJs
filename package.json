@@ -1,0 +1,14 @@
+{
+  "name": "NodeJs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node ./dist/app.js"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/afshinrahmati/NodeJs.git",
+  "author": "afshin <afshinrahmati93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.2.1"
+  }
+}
